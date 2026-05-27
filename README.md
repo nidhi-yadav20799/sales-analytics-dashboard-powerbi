@@ -15,3 +15,4 @@ This project is an interactive Sales Analytics Dashboard created using Power BI.
 - Data Visualization
 
 ## Dashboard Preview
+<img width="1486" height="792" alt="Screenshot 2026-05-27 181308" src="https://github.com/user-attachments/assets/3e8fc245-fe2d-4682-9a65-ee050da14b25" />
